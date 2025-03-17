@@ -1,0 +1,4 @@
+.venv
+backup
+config.yaml
+__pycache__/
