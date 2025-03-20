@@ -1,4 +1,4 @@
-# llm_chat
+# ollama_llm_chat
 A chat agent that can talk to an ollama backend leveraging a MySQL database for storage of chat sessions
 
 ## Python modules
